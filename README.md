@@ -1,5 +1,7 @@
 # Remote-SSH-for-Trae-Fix
 
+官方支持远程了，此项目终结。remote失败的，去远端服务器，删除 ~.vscode-server
+----------------------------
 尝试修复 Trae  国内版的 remote ssh 失败问题。
 
 使用方式：
